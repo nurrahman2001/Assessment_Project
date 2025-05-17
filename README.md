@@ -24,7 +24,7 @@ This is a simple web based authentication system built with React.js, Tailwind C
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/assessment_project.git
+   git clone https://github.com/nurrahman2001/Assessment_Project.git
    
    I’ve added a `.env` file in the root of the server folder. You need to update the following values as per your setup:
 
