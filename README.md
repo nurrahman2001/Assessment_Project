@@ -1,4 +1,4 @@
-# Assessment Project for Quantum IT Innovation
+# Assessment Project for Quantum IT Innovations
 
 This is a simple web based authentication system built with React.js, Tailwind CSS, and Node.js/Express and MongoDB as part of an assessment project.
 
@@ -11,7 +11,7 @@ This is a simple web based authentication system built with React.js, Tailwind C
 - 
 ## Technologies Used
 
-- React.js
+- React
 - Tailwind CSS
 - React Router DOM
 - Axios
@@ -26,5 +26,17 @@ This is a simple web based authentication system built with React.js, Tailwind C
    ```bash
    git clone https://github.com/nurrahman2001/Assessment_Project.git
    
-   I’ve added a `.env` file in the root of the server folder. You need to update the following values as per your setup:
+2. I’ve added a `.env` file in the root of the server folder. You need to update the following values as per your setup:
 
+ - MongoDB Connection URL.
+ - JWT_SECRET.
+ - PORT.
+
+3. Install all the necessary packages: 
+   ```bash
+   npm install 
+
+4. Run the project:
+   ``` bash
+   client -> npm run dev
+   server -> node server.js
