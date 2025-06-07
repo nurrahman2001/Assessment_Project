@@ -1,4 +1,4 @@
-# Assessment Project for Quantum IT Innovations
+# JWT based Authentication system 
 
 This is a simple web based authentication system built with React.js, Tailwind CSS, and Node.js/Express and MongoDB as part of an assessment project.
 
